@@ -1,0 +1,1408 @@
+header, section, footer {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+
+
+}
+
+
+header {
+ height: 180px;
+ background-color: white;
+
+    
+    background-image: url(imagenes/logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+ 
+
+#botonera1 {
+	width: 960px;
+	height:70px;
+	background-color: white;
+	clear: both;
+
+}
+
+#contenido {
+	height: 750px;
+	background-color: transparent;
+}
+
+#cajita {
+	width:380px;
+	height: 200px;
+	background-color:transparent;
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 15px;
+	margin-left: 10px;
+	border-radius: 5px;
+	background-image: url(imagenes/caja.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#cuadradosup{
+
+	background-color: #4f5361;
+	width: 200px;
+	height: 210px;
+	position:relative;
+	left: 275px;
+	clear: both;
+	border-radius: 100px;
+	background-image: url(imagenes/mixer2.png);
+	background-position: center;
+	background-size:cover;
+	background-repeat: no-repeat;
+	
+	}
+
+
+#txt_propuesta{
+	width: 550px;
+	height: 200px;
+	background-color: rgba(255, 192, 3, 0.58);
+	float: right;
+	margin-top: 10px;
+	margin-bottom: 15px;
+	margin-right:10px;
+	margin-left: 10px;
+	border-radius: 5px;
+	text-align: center;
+	font-family: LobsterTwo,Trebuchet;
+	font-size: 16px;
+	padding-right: 20px;
+	padding-left: 10px,
+	padding-top:5px;
+	padding-bottom:20px;
+	box-sizing: border-box;
+	
+}
+
+
+#lemon{
+	width:230px;
+	height:430px;
+	background-color: #210316;
+	float: right;
+	margin-right: 2px;
+	margin-left: 2px;
+	background-image: url(imagenes/lemon.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	border-color: white;
+	border-style: ridge;
+}
+
+
+
+
+#txt_img1{
+	width: 185px;
+	height: 40px;
+	margin-top: 365px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: transparent;
+	border-radius: 10px;
+	font-family: LobsterTwo;
+	font-style: oblique;
+	text-align: center;
+	color:  #47391d;
+
+
+}
+#budin{
+	width:230px;
+	height: 430px;
+	background-color:#210316;
+	float: right;
+	margin-right: 2px;
+	margin-left: 2px;
+	background-image: url(imagenes/budin.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	border-color: white;
+	border-style: ridge;
+
+
+}
+
+#txt_img2{
+	width: 185px;
+	height: 40px;
+	margin-top: 365px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: transparent;
+	border-radius: 10px;
+	font-family: LobsterTwo;
+	font-style: oblique;
+	text-align: center;
+	color: #47391d;
+
+}
+
+#torta{
+	width:230px;
+	height: 430px;
+	background-color:#210316;
+	float: left;
+	margin-right: 2px;
+	margin-left: 2px;
+	background-image: url(imagenes/torta.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	border-color: white;
+	border-style: ridge;
+
+}
+
+#txt_img3{
+	width: 185px;
+	height: 40px;
+	margin-top: 365px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: transparent;
+	border-radius: 10px;
+	font-family: LobsterTwo;
+	font-style: oblique;
+	text-align: center;
+	color:#ffe3ab;
+
+
+}
+
+#alfajores{
+	width:230px;
+	height: 430px;
+	background-color:#210316;
+	float: left;
+	margin-right: 2px;
+	margin-left: 2px;
+	background-image: url(imagenes/alfajores.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	border-color: white;
+	border-style: ridge;
+
+
+
+}
+#txt_img4{
+	width: 185px;
+	height: 40px;
+	margin-top: 350px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: transparent;
+	border-radius: 10px;
+	font-family: LobsterTwo;
+	font-style: oblique;
+	text-align: center;
+	color: #756441;
+}
+
+footer{
+margin-top: 20px;
+height: 150px;
+background-color: rgba(255, 192, 3, 0.58);
+z-index: -1;
+box-sizing: border-box;
+}
+
+#insta{
+	width: 50px;
+	height:40px;
+	margin-left: 355px;
+	margin-top: 75px;
+	background-color: #0bd45b;
+	float: left;
+	border-radius: 10px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+ 
+body {
+	background-color: #FFFFFF;
+	background-size: cover;
+	font-family: LobsterTwo-Regular, Trebuchet;
+}
+
+@font-face{
+  font-family: 'LobsterTwo';
+  font-style: normal;
+  font-weight: 400;
+  src: local('LobsterTwo'), local('LobsterTwo-Regular'), url(https://fonts.gstatic.com/s/gochihand/v11/hES06XlsOjtJsgCkx1Pkfon_-w.woff2) format('woff2');
+}
+
+body{
+	font-family: LobsterTwo-Regular, Trebuchet;
+	font-size: large;
+
+}
+
+
+h2{
+	text-align: center;
+	font-family:LobsterTwo, Trebuchet;
+	font-size: x-large;
+	font-style: normal;
+	text-shadow:1px 1px 0px rgba(240,240,240,1), 
+    2px 2px 0px rgba(200,200,200,1), 
+    3px 3px 0px rgba(180,180,180,1), 
+    4px 4px 0px rgba(170,170,170,1),
+    5px 10px 7px rgba(0,0,0,0.5),
+    5px 5px 0px rgba(0,0,0,1), 
+    8px 8px 20px rgba(0,0,0,0.2);
+}
+
+
+ul{
+	margin:0;
+	padding: 0;
+	list-style-type: none;
+
+}
+
+ul li{
+	display: inline;
+	-webkit-background-size: 100% 100%;
+	-moz-background-size: 100% 100%;
+	background-size: 100% 100%;
+}
+
+ul li a{
+	width: 200px;
+	height: 60px;
+	background-color: black;
+	margin-bottom: 5px;
+	display: inline block;
+	color:white;
+	text-decoration: none;
+	text-align: center;
+	line-height: 60px;
+	font-family: LobsterTwo, Calibri;
+	font-size: 20px;
+	float: left;
+	padding: 20px;
+	-webkit-transition: all 0.8s ease-out;
+	-moz-transition: all 0.8s ease-out;
+    -o-transition: all 0.8s ease-out;
+	-webkit-box-shadow: 2px 2px 4px #171a13;
+	-moz-box-shadow: 4px 4px 6px #171a13;
+	box-shadow: 4px 4px 6px #171a13;
+
+
+}
+
+ul li a:hover {
+
+background-color:#e0a928;
+color:#000000;
+
+}
+
+h3{
+	margin-top: 80px;
+	margin-bottom: 25px;
+	font-family: LobsterTwo;
+	height: 100px;
+	float: left;
+}
+#galletitas {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+}
+
+.contacto {
+    width:550px;
+	height: 500px;
+	
+}
+
+.formulario{
+	width:680px;
+	height: 500px;
+	background-color:#999999;
+	margin-right: 200px;
+	margin-left: 150px;
+	margin-top:40px;
+	margin-bottom: 20px;
+	background-image: url(imagenes/tablanavidad.jpg);
+	background-size: cover;
+	background-repeat: repeat;
+	background-position: center;
+	border-color: white;
+	border-style: ridge;
+    text-align: center;
+	font-size: 22px;
+	font-family: Calibri,sans serif;
+	box-sizing: border-box;
+}
+
+#contacto ol{
+	text-decoration: none;
+	list-style: none;
+	text-align: center;
+	width: 250px;
+	height: 700px;
+	padding-right: 5px;
+	padding-left: 250px;
+	padding-bottom: 25px;
+	padding-top: 20px;
+}
+
+
+#receta{
+	margin-top: 20px;
+	margin-bottom: 10px;
+	width: 550px;
+	height: 500px;
+	float:left;
+	text-align: center;
+	border-radius: 30px;
+}
+
+#recetafacil{
+	text-align: center;
+	width: 400px;
+	height: 520px;
+	float: right;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	/*margin-right: 130px;*/
+	margin-left: 10px;
+	margin-bottom: 10px;
+	font-family:LobsterTwo,Trebuchet;
+	font-size: 16px;
+	background-color:rgba(255, 192, 3, 0.58); 
+	box-sizing: border-box;
+	padding-left: 2px;
+	padding-right: 2px;
+	border-radius: 10px;
+
+}
+
+#recetafacil ol li{
+	list-style-type: circle;
+	text-decoration: none;
+	text-align: center;
+	font-family: LobsterTwo,Trebuchet;
+	font-size: large;
+}
+
+#diadelpadre {
+	width:350px;
+	height: 300px;
+	background-color:#210316;
+	float: left;
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-top: 2px;
+	margin-bottom: 10px;
+	background-image: url(imagenes/boxpapa.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	border-color: white;
+	border-style: ridge;
+
+}
+
+
+#fatherday{
+	width:350px;
+	height: 300px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	background-color:#210316;
+	float: right;
+	margin-right: 10px;
+	margin-left: 10px;
+	background-image: url(imagenes/alfa.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	border-color: white;
+	border-style: ridge;
+}
+
+#txtpadre{
+	width:250px;
+	height: 280px;
+	margin-left: 350px;
+	margin-right: 2px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+	background-color:rgba(255, 192, 3, 0.58);
+	padding-top: 10px;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	box-sizing: border-box;
+
+}
+
+h1{
+	font-family: LobsterTwo;
+	text-align: center;
+	color: black;
+	font-style: oblique;
+	text-shadow: 5px 10px 7px rgba(0,0,0,0.6);
+
+
+}
+
+#diadelamigo{
+	height: 330px;
+	width: 360px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	background-color:rgb(237, 184, 121);
+	float: left;
+	margin-right: 2px;
+	margin-left: 5px;
+	background-image: url(imagenes/colage.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	box-sizing: border-box;
+	border-color: white;
+	border-style: ridge;
+	
+}
+
+#mixermedio{
+	height: 300px;
+	width: 300px;
+	margin-top: 1px;
+	margin-bottom: 10px;
+	background-color: rgb(26, 12, 38, 0.43);
+	float: right;
+	margin-right: 2px;
+	margin-left: 320px;
+	background-image: url(imagenes/mixer.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	border-radius: 250px;
+	box-sizing: border-box;
+	position:absolute;
+
+
+
+}
+
+#diadelamigotxt{
+	width:350px;
+	height: 325px;
+	background-color: rgb(237, 184, 121);
+	float: right;
+	margin-right: 10px;
+	margin-left: 2px;
+	margin-top: 10px;
+	border-color: white;
+	border-style: ridge;
+	text-align: center;
+	font-family: LobsterTwo,Trebuchet;
+}
+
+#lista1{
+
+	width: 100px;
+	height: 50px;
+	background-color: "white";
+	padding: 2px;
+	text-align: center;
+	font-family: LobsterTwo,Trebuchet;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 15px;
+	margin-top: 5px;
+	font-size: large;
+}
+
+#lista2{
+
+    width: 35px;
+	height: 40px;
+	background-color: "white";
+	float: right;
+	padding: 2px;
+	text-align: center;
+	font-family: LobsterTwo,Trebuchet;
+	margin-left: 5px;
+	margin-right: 15px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	font-size: large;
+
+} 
+
+#PrecioporMayor{
+	width: 50px;
+	height: 50px;
+	padding: 2px;
+	text-align: center;
+	font-family: LobsterTwo,Trebuchet;
+	margin-left: 5px;
+	margin-right: 35px;
+	margin-bottom: 10px;
+	margin-top: 50px;
+	float: right;
+}	
+	
+
+#precio{
+    width: 90px;
+	height: 50px;
+	padding: 2px;
+	text-align: left;
+	font-family: LobsterTwo,Trebuchet;
+	margin-left: 55px;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-top: 50px;
+	float: left;
+	font-size: 20px;
+}
+	
+#descuento{
+	width: 320px;
+	height: 50px;
+	text-align:left;
+	margin-top: 100px;
+	margin-right: 5px;
+	margin-left: 15px;
+	margin-bottom: 5px;
+
+}
+
+#parrafo{
+	width: 950px;
+	
+}
+
+#slider{
+	width:720px;
+	height: 500px;
+	overflow: hidden;
+	margin-top: 50px;
+	margin-left: 40px;
+}
+
+#slider .slides {
+    display: block;
+    width: 7000px;
+    height: 400px;
+    margin:0;
+    padding: 0;
+}
+
+#slider .slide {
+    float: left;
+	list-style-type: none;
+	width: 720px;
+	height: 500px;
+
+
+}
+
+.container{
+	width: 960px;
+	height: 1125px;
+	background-color: rgb(242, 242, 242, 0.60);
+	margin-top: 40px;
+	margin-bottom: 5px;
+	
+}	
+
+@media(min-width: 599px){
+.soloresponsive, .soloresponsive2{
+	display: none;
+}
+
+}
+   
+.soloresponsive{
+	width: 270px;
+	height: 300px;
+	margin-top: 350px;
+	margin-left: 10px;
+	background-image: url(imagenes/frutalcake.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+
+
+}
+
+.soloresponsive2{
+	width: 270px;
+	height: 300px;
+	margin-top: 750px;
+	margin-left: 10px;
+	background-image: url(imagenes/chocobudin.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+}
+
+h4 {
+	font-family: LobsterTwo,Trebuchet;
+	color: #6b0c25;
+	font-size: 40px;
+	text-align: center;
+	color: black;
+	text-shadow: 1px 1px 0px rgba(240,240,240,1), 
+    2px 2px 0px rgba(200,200,200,1), 
+    3px 3px 0px rgba(180,180,180,1), 
+    4px 4px 0px rgba(170,170,170,1),
+    5px 10px 7px rgba(0,0,0,0.5),
+    5px 5px 0px rgba(0,0,0,1), 
+    8px 8px 20px rgba(0,0,0,0.2);
+    margin-top: 10px;
+    width: 960px;
+    height:150px;
+    margin-bottom: 5px;
+    padding: 30px;
+    background-image: url(imagenes/slider03.jpg);
+	box-sizing: border-box;
+
+}
+
+.servicios{
+	width: 960px;
+	height: 415px;
+	background-image: url(imagenes/notas.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	border-color: white;
+	border-style: ridge;
+	margin-top: 5px;
+	margin-bottom: 2px;
+}
+
+#cupcakes{
+	width: 15%;
+	height: 150px;
+	margin-top: 180px;
+	margin-bottom: 15px;
+	margin-left: 20px;
+	margin-right:5px;
+	background-image: url(imagenes/cupkake.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	border-color: white;
+	border-radius: 10px;
+	font-family: LobsterTwo;
+	font-style: oblique;
+	text-align: center;
+	color:black;
+	box-sizing: border-box;
+	float: left;
+}
+
+#pasteleria{
+	width: 15%;
+	height: 150px;
+	margin-top: 180px;
+	margin-bottom: 5px;
+	margin-left: 75px;
+	margin-right:15px;
+	background-image: url(imagenes/pastelito.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	border-color: white;
+	border-radius: 10px;
+	font-family: LobsterTwo;
+	font-style: oblique;
+	text-align: center;
+	color:black;
+	box-sizing: border-box;
+	float: left;
+
+
+
+
+}
+
+
+#tortaspers{
+	width: 15%;
+	height: 150px;
+	margin-top: 180px;
+	float: left;
+	margin-left: 5px;
+	margin-right: 2px;
+	background-image: url(imagenes/tortanimada.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	border-color: white;
+	border-radius: 10px;
+	font-family: LobsterTwo;
+	font-style: oblique;
+	text-align: center;
+	color:black;
+	box-sizing: border-box;
+
+}
+
+#salados{
+	width: 15%;
+	height: 150px;
+	margin-top: 180px;
+	margin-bottom: 15px;
+	margin-right:15px;
+	float: left;
+	margin-left: 20px;
+	background-image: url(imagenes/pretsel.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	border-color: white;
+	border-radius: 10px;
+	font-family: LobsterTwo;
+	font-style: oblique;
+	text-align: center;
+	color:black;
+	box-sizing: border-box;
+	
+
+}
+
+#envio{
+	width: 15%;
+	height: 150px;
+	margin-top: 180px;
+	margin-bottom: 5px;
+	float: left;
+	margin-left: 5px;
+	margin-right: 15px;
+	background-image: url(imagenes/envio.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	border-color: white;
+	border-radius: 10px;
+	font-family: LobsterTwo;
+	font-style: oblique;
+	text-align: center;
+	color:black;
+	box-sizing: border-box;
+
+}
+
+
+.espefooter{
+	box-sizing: border-box;
+	margin-top: 490px;
+	margin-left: 185px;
+	margin-right:185px;
+}
+
+.zoom:hover {
+ -webkit-transform:scale(1.2);
+ transform:scale(1.2);
+}
+
+.zoom{
+	overflow: visible;
+}
+
+@media all and (min-width:600px) and (max-width: 1023px){
+
+header, section, footer {
+	width: 580px;
+}
+
+#botonera1 {
+	width: 400px;
+	background-color: transparent;
+	display: inline;
+}
+
+#contenido {
+	height: 750px;
+}
+
+#cajita {
+	width:570px;
+	box-sizing: border-box;
+}
+
+#cuadradosup{
+	height: 200px;
+}
+
+#txt_propuesta{
+	width: 570px;
+	margin-top: 5px;
+	margin-right:1px;
+	margin-left: 1px;
+	font-size: 15px;
+	padding-right: 10px;
+}
+
+#lemon{
+    width:265px;
+	height:230px;
+	margin-left: 17px;
+}
+
+#txt_img1{
+	width: 85px;
+	height: 40px;
+	margin-top: 100px;
+}
+
+#budin{
+	width:265px;
+	height: 230px;
+	margin-right: 17px;
+}
+
+#txt_img2{
+	width: 85px;
+	height: 40px;
+	margin-top: 100px;
+}
+
+#torta{
+	width:265px;
+	height: 230px;
+	margin-top: 15px;
+	margin-right: 20px;
+	margin-left: auto;
+}
+
+#txt_img3{
+	width: 85px;
+	height: 40px;
+	margin-top: 100px;
+	
+}
+
+#alfajores{
+	width:265px;
+	height: 230px;
+	margin-top: 15px;
+    margin-right:auto;
+	margin-left: 17px;
+	margin-right: 1px;
+	
+}
+
+#txt_img4{
+	width: 85px;
+	height: 40px;
+	margin-top: 95px;
+	color: #4a3c28;
+}
+
+footer{
+margin-top: 285px;
+}
+
+#insta{
+	margin-left: 200px;
+}
+
+h2{
+	font-size: 23px;
+}
+
+ul li a{
+	width: 115px;
+	padding: 15px;
+}
+
+
+h3{
+	margin-top: 95px;
+	margin-bottom: 25px;
+	font-family: LobsterTwo;
+	height: 80px;
+	float: left;
+}
+
+.formulario{
+	width:560px;
+	margin-right: 80px;
+	margin-left: 10px;
+	margin-top:100px;
+}
+
+#receta{
+	margin-top: 30px;
+	width: 300px;
+	height: 400px;
+	
+}
+
+#recetafacil{
+	width: 270px;
+	height: 600px;
+	background-color:rgba(255, 192, 3, 0.80); 
+	margin-top: 30px;
+}
+
+#diadelpadre {
+	width:270px;
+	height: 250px;
+	
+}
+
+
+#fatherday{
+	height: 250px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	float: left;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+#txtpadre{
+	width:280px;
+	height: 480px;
+	margin-left: 300px;
+    margin-top: 10px;
+	padding-top: 150px;
+
+}
+
+#diadelamigo{
+	height: 370px;
+	width: 300px;
+	border-radius:10px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+#mixermedio{
+	height: 170px;
+	width: 170px;
+	margin-top: 2px;
+
+	
+}
+
+#diadelamigotxt{
+	width:250px;
+	height: 320px;
+	margin-right: 10px;
+	margin-top: 55px;
+	border-radius: 10px;
+
+}
+#lista1{
+    width: 95px;
+	height: 25px;
+	font-size: medium;
+}
+
+#lista2{
+    width: 70px;
+	height: 15px;
+	font-size: medium;
+} 
+
+#PrecioporMayor{
+	text-align: left;
+	margin-right: 5px;
+	margin-top: 20px;
+	float: left;
+}	
+
+#precio{
+    margin-left: 25px;
+	margin-top: 30px;
+	font-size: medium;
+	
+}
+	
+#descuento{
+	width: 220px;
+	margin-top: 18px;
+	font-size: 15px;
+	
+}
+
+
+h4{
+	font-size: 50px;
+
+
+}
+
+
+
+#rectangulo{
+	width: 580px;
+	height: 280px;
+	text-shadow: 5px 10px 7px rgba(0,0,0,0.8);
+	padding-top: 100px;
+}
+
+#rectangulo2{
+	width: 580px;
+	height: 80px;
+	margin-top: 250px;
+    text-shadow: 5px 10px 7px rgba(0,0,0,0.8);
+    padding-top: 10px;
+    padding-bottom: 125px;
+}
+
+
+.espefooter{
+	margin-left: 10px;
+	margin-right:10px;
+}
+
+
+} /*fin 600px a 1023px - */
+
+
+@media all and (max-width: 599px) {
+
+header, section, footer {
+	width: 95%
+}
+
+#botonera1 {
+	width: 100%;
+	height:auto;
+	float: none;
+}
+
+#contenido {
+	height: 500px;
+}
+#cajita {
+	width:100%;
+	height: 200px;
+	clear: both;
+	margin-right: 2px;
+	margin-left: 2px;
+	margin-bottom: 2px;
+	margin-top: 2px;
+
+}
+
+#cuadradosup{
+    display: none;
+}
+
+#txt_propuesta{
+	width: 100%;
+	height: auto;
+	clear: both;
+	margin-right:1px;
+}
+
+#lemon{
+	width:45%;
+	height:250px;
+	float: right;
+	margin-top: 45px;
+	margin-right: 2px;
+	margin-left: 2px;
+	margin-bottom: 10px;
+
+
+}
+
+#txt_img1{
+	width: 45px;
+	height: 20px;
+	margin-top: 80px;
+	margin-right: 15px;
+}
+
+#budin{
+	width:45%;
+	height: 250px;
+	margin-top: 45px;
+	float: left;
+   
+}
+
+#txt_img2{
+	width: 45px;
+	height: 20px;
+	margin-top: 80px;
+	margin-left: 30px;
+}
+
+#torta{
+	width:45%;
+	height: 250px;
+	float: left;
+	margin-top: 35px;
+	margin-left: 2px;
+	margin-right: 15px;
+
+
+
+}
+
+#txt_img3{
+	width: 45px;
+	height: 15px;
+	margin-top: 90px;
+	margin-right:15px;
+	margin-left: 15px;
+}
+
+#alfajores{
+	width:45%;
+	height: 250px;
+	float: left;
+	margin-top: 25px;
+	margin-right: 2px;
+	margin-left: 2px;
+
+}
+
+#txt_img4{
+	width: 45px;
+	height: 15px;
+	margin-top: 85px;
+	color:  #47391d;
+	margin-right:15px;
+	margin-left: 15px;
+}
+
+footer{
+
+height:100px;
+width: 100%;
+margin-top: 250%;
+
+}
+
+#insta{
+	margin-left: 80px;
+	margin-top: 20px;
+}
+
+h2{
+	font-size: medium;
+    
+}
+
+ul li a{
+	width: 93%;
+	height: auto;
+	font-size: 25px;
+	line-height: 40px;
+	padding: 15px;
+}
+
+h3{
+	margin-top: 35px;
+}
+
+.contacto {
+    width:100%;
+	height:auto;
+
+}
+
+#contacto ol{
+	padding-left:125px;
+	padding-right: 5px;
+	padding-top: 10px;
+}
+	
+
+.formulario{
+	width:100%;
+	height: auto;
+	margin-right: 2px;
+	margin-left: 2px;
+	margin-top:350px;
+
+	
+}
+
+#receta{
+	width: 100%;
+	height: auto;
+	float:none;
+}
+
+#recetafacil{
+	text-align: right;
+	width: 100%;
+	height: auto;
+	float: none;
+	margin-top: 1px;
+	margin-left: 2px;
+	margin-right: 2px;
+	font-family:verdana;
+	font-weight: 600;
+	font-size: 10px;
+	background-color:rgba(255, 192, 3, 0.8); 
+	position: relative;
+}
+
+#recetafacil ol li{
+	text-align: left;
+	font-family: verdana;
+	font-size: 10px;
+
+}
+
+#diadelpadre {
+   display: none;
+}
+
+#fatherday{
+	width:95%;
+	height: 320px;
+	position: relative;
+	margin-right: 5px;
+	margin-left:5px;
+}
+
+#txtpadre{
+	width:50%;
+	height:auto;
+	margin-left: 100px;
+	margin-top: 480px;
+	margin-bottom: 10px;
+	background-color:rgb(255, 192, 3, 0.58);
+	position: absolute;
+
+}
+
+#diadelamigo{
+	height: 300px;
+	width: 100%;
+	margin-left: 2px;
+	background-image: url(imagenes/cajaalfa.jpg);
+	border-radius: 5px;	
+}
+
+#mixermedio{
+	display: none;
+}
+
+#diadelamigotxt{
+	height: 350px;
+	width: 80%;
+	margin-top: 950px;
+	margin-bottom: 10px;
+	background-color: #d4c9c9;
+	margin-right: 30px;
+	margin-left:20px;
+	background-image: url(imagenes/mixer.png);
+	border-radius: 50px;
+	position:absolute;
+}
+
+#lista1{
+
+	width: 120px;
+	height: auto;
+	font-size: medium;
+}
+
+#lista2{
+
+    width: 50px;
+	height: auto;
+	font-size: medium;
+
+} 
+
+#PrecioporMayor{
+	width: 50px;
+	height: 20px;
+	margin-top: 30px;	
+}	
+
+#precio{
+    width:90px;
+	height: 20px;
+	margin-top: 30px;
+}
+	
+#descuento{
+	width: 100%;
+	height: auto;
+	text-align: center;
+	font-size: 20px;
+	box-sizing: border-box;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 15px;
+}
+
+.espefooter{
+	margin-left: 2px;
+	margin-right:2px;
+	width: 100%;
+	height: auto;
+}
+
+
+.container{
+	width: 100%;
+
+	
+}	
+.servicios{
+	display: none;
+}
+
+h4 {
+
+	display: none;
+}	
+
+
+#parrafo{
+	display: none;
+}
+
+#slider{
+	display: none;
+}
+
+
+.espefooter{
+	margin-left: 2px;
+	margin-right:2px;
+	width: 100%;
+	height: auto;
+}
+
+
+} /*fin media 599px - */
